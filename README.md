@@ -1,5 +1,7 @@
 <h1 align="center">Hi👋, I'm Mohit Kumar Kushwaha</h1>
 <h3 align="center">A passionate Coder from India</h3>
+<h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl , then Right click to open following link redirections in new tab page !! <br> </b></h4>
+<h4 align="middle" style="color:cornflowerblue"><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=Profile%20views&color=98b40e&style=flat" alt="kimtvak8143" /> </p>
 
