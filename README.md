@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumar Kushwaha</h1>
+<h1 align="center">Hi👋, I'm Mohit Kumar Kushwaha</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=Profile%20views&color=98b40e&style=flat" alt="kimtvak8143" /> </p>
 
 <p align="middle"> <a href="https://twitter.com/kimtvak" target="blank"><img src="https://img.shields.io/twitter/follow/kimtvak?logo=twitter&style=for-the-badge" alt="kimtvak" /></a> </p>
-<div align ="middle">
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimtvak8143" alt="kimtvak8143" /></a> </p>
-</div>
+
 - 🌱 I’m currently learning **C, Python, Front-end Dev**
 
 - 👨‍💻 Working on a Calendar Project in python
@@ -29,6 +27,8 @@
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimtvak8143&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kimtvak8143" /></p>
 
 <p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=kimtvak8143&show_icons=true&theme=cobalt&bg_color=000700&locale=en" alt="kimtvak8143" /></p>
+
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimtvak8143" alt="kimtvak8143" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimtvak8143&" alt="kimtvak8143" /></p>
 </div>
