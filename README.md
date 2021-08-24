@@ -3,7 +3,7 @@
 <h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl, then Left click to open following link redirections in new tab page !! <br> </b></h4>
 <h4 align="middle" style="color:cornflowerblue"><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=Profile%20views&color=98b40e&style=flat" alt="kimtvak8143" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="kimtvak8143" /> </p>
 
 <p align="middle"> <a href="https://twitter.com/kimtvak" target="blank"><img src="https://img.shields.io/twitter/follow/kimtvak?logo=twitter&style=for-the-badge" alt="kimtvak" /></a> </p>
 
