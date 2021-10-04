@@ -7,7 +7,7 @@
 
 <p align="middle"> <a href="https://twitter.com/kimtvak" target="blank"><img src="https://img.shields.io/twitter/follow/kimtvak?logo=twitter&style=for-the-badge" alt="kimtvak" /></a> </p>
 
-- 🌱 I’m currently learning **C, Python, Front-end Dev**
+- 🌱 I’m currently learning **C++, Python, Cloud Computing = AWS/Azure**
 
 - 👨‍💻 Working on a Calendar Project in python
 
