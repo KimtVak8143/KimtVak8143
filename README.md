@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Mohit Kumar Kushwaha</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">I'm a Computer Science Scholar, specializing in Cloud Computing. I'm Proficient in Python, C++, C. Presently I am trying to explore Front-end Development.  </h3>
 <h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl, then Left click to open following link redirections in new tab page !! <br> </b></h4>
 <h4 align="middle" style="color:cornflowerblue"><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
 
@@ -7,7 +7,7 @@
 
 <p align="middle"> <a href="https://twitter.com/kimtvak" target="blank"><img src="https://img.shields.io/twitter/follow/kimtvak?logo=twitter&style=for-the-badge" alt="kimtvak" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Python, Cloud Computing = AWS/Azure**
+- 🌱 I’m currently learning **C++, Python, Cloud Computing - Azure**
 
 - 👨‍💻 Working on a Calendar Project in python
 
