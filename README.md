@@ -1,7 +1,6 @@
 <h1 align="center">Hi👋, I'm Mohit Kumar Kushwaha</h1>
 <h3 align="center">I'm a Computer Science Scholar, specializing in Cloud Computing. I'm Proficient in Python, C++, C. Presently I am trying to explore Front-end Development.  </h3>
-<h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl, then Left click to open following link redirections in new tab page !! <br> </b></h4>
-<h4 align="middle" style="color:cornflowerblue"><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
+<h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl, then Left click to open following link redirections in new tab page !! <br> </b><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="kimtvak8143" /> </p>
 
