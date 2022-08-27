@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Mohit Kumar Kushwaha</h1>
-<h3 align="center">I'm a Computer Science Scholar, specializing in Cloud Computing. I'm Proficient in Python, C++, C. Presently I am trying to explore Front-end Development.  </h3>
+<h3 align="center">I'm a Computer Science Scholar, specializing in Cloud Computing. I'm Proficient in Python, C++, C. Presently I am trying to explore Front-end Development along with Back-End Development and with a bit of Cloud Integration Using AWS Amplify.  </h3>
 <h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl, then Left click to open following link redirections in new tab page !! <br> </b><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="kimtvak8143" /> </p>
@@ -8,7 +8,11 @@
 
 - 🌱 I’m currently learning **C++, Python, Cloud Computing - Azure**
 
-- 👨‍💻 Working on a Calendar Project in python
+- 👨‍💻 Working on these projects
+-- Pandemic Control - NCST SRM Team
+-- Helmet, ID Verification using Deep Learning
+-- Python GUI using PyGui and pyQT
+-- 
 
 - 🔗 Links to all : [**Social Handles**](https://linktr.ee/mohit_kushwaha)
 
