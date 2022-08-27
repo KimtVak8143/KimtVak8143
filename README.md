@@ -9,10 +9,9 @@
 - 🌱 I’m currently learning **C++, Python, Cloud Computing - Azure**
 
 - 👨‍💻 Working on these projects
--- Pandemic Control - NCST SRM Team
--- Helmet, ID Verification using Deep Learning
--- Python GUI using PyGui and pyQT
--- 
+- Pandemic Control - NCST SRM Team
+-  Helmet, ID Verification using Deep Learning
+-  Python GUI using PyGui and pyQT 
 
 - 🔗 Links to all : [**Social Handles**](https://linktr.ee/mohit_kushwaha)
 
