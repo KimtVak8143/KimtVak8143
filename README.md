@@ -2,7 +2,6 @@
 
 [![@kimtvak's Holopin board](https://holopin.me/kimtvak)](https://holopin.io/@kimtvak)
 <h3 align="center">I'm a Computer Science Scholar, specializing in Cloud Computing. I'm Proficient in Python, C++, C. Presently I am trying to explore Front-end Development along with Back-End Development and with a bit of Cloud Integration Using AWS Amplify.  </h3>
-<h4 align="center" style="color:cornflowerblue"><b>!! Press Ctrl, then Left click to open following link redirections in new tab page !! <br> </b><b>Because Github Markdown doesn't support new tab redirections.😢</b></h4>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=kimtvak8143&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="kimtvak8143" /> </p>
 
