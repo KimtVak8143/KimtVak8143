@@ -26,9 +26,8 @@
 ## 🔗 Connect with Me:
 - 🌍 [**Portfolio/Blog**](https://linktr.ee/mohit_kushwaha)
 - 📧 **Email:** [kimtaws46@gmail.com](mailto:kimtaws46@gmail.com)
-- 💼 **LinkedIn:** [Mohit Kumar Kushwaha](https://www.linkedin.com/in/mohit-kushwaha-86910a185/)
+- 💼 **LinkedIn:** [Mohit Kumar Kushwaha](https://www.linkedin.com/in/mohitkkushwaha/)
 - 🐦 **Twitter:** [@kimtvak](https://twitter.com/kimtvak)
-- 📸 **Instagram:** [mohit_kumar_kush](https://www.instagram.com/mohit_kumar_kush/?hl=en)
 
 ## 🛠️ Tech Stack & Tools:
 <p align="middle">
