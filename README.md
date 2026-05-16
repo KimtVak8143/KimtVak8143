@@ -82,17 +82,17 @@
 
 **Microsoft Azure**
 
-![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![AZ-204](https://img.shields.io/badge/AZ--204-Azure_Developer-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Architect-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-204](https://img.shields.io/badge/AZ--204-Azure_Developer_Associate-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-400](https://img.shields.io/badge/AZ--400-Azure_DevOps_Engineer_Expert-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
 **Microsoft Data & AI**
 
-![DP-600](https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-0078D4?style=flat&logo=microsoft&logoColor=white)
+![DP-600](https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer_Associate-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![DP-900](https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=flat&logo=microsoft&logoColor=white)
-![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ---
