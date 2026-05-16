@@ -1,60 +1,101 @@
-# Hi 👋, I'm Mohit Kumar Kushwaha
+<div align="center">
 
-[![@kimtvak's Holopin board](https://holopin.me/kimtvak)](https://holopin.io/@kimtvak)
+# Mohit Kumar Kushwaha
 
-### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Geek
+**Senior DevOps & Cloud Engineer · Automation Geek · Developer at midnight, Orchestrating chaos by day**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kimtvak8143&label=PROFILE%20VISITS&color=blueviolet&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitkkushwaha/)
+[![Twitter](https://img.shields.io/twitter/follow/kimtvak?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/kimtvak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-linktr.ee-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/mohit_kushwaha)
+[![Profile Views](https://komarev.com/ghpvc/?username=kimtvak8143&label=Profile+Views&color=blueviolet&style=flat)](https://github.com/KimtVak8143)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kimtvak?logo=twitter&style=for-the-badge)](https://twitter.com/kimtvak)
-
-## 👨‍💻 About Me:
-- 🛠️ **DevOps Engineer** with 1 year of experience in automating, optimizing, and maintaining cloud infrastructure.
-- ☁️ **Cloud Expertise:** AWS, Azure, GCP, and cloud automation.
-- 🖥️ **Tech Stack:** Docker, Terraform, Ansible, CI/CD (Jenkins, GitHub Actions, GitLab CI), and Monitoring (New Relic, ELK)
-- 🏗️ **Infrastructure as Code (IaC):** Terraform, CloudFormation.
-- 🔄 **Scripting & Automation:** Python, Bash, PowerShell.
-- 🔍 **Current Focus:** Advanced Cloud Networking, Observability, and Performance Optimization.
-
-## 💡 Projects & Work:
-- 🚀 **Automated Multi-Cloud Deployment** using Terraform & Ansible.
-- 📊 **Synthetic Monitoring Setup** with New Relic for 50+ URLs.
-- ⚡ **Optimized CI/CD Pipelines** reducing build time by 40%.
-- 🌍 **Bulk URL Purge & Warm-up Mechanism** for Dispatcher & Akamai.
-- 📜 **AWS DocumentDB Profiling & Performance Tuning.**
-
-## 🔗 Connect with Me:
-- 🌍 [**Portfolio/Blog**](https://linktr.ee/mohit_kushwaha)
-- 📧 **Email:** [kimtaws46@gmail.com](mailto:kimtaws46@gmail.com)
-- 💼 **LinkedIn:** [Mohit Kumar Kushwaha](https://www.linkedin.com/in/mohitkkushwaha/)
-- 🐦 **Twitter:** [@kimtvak](https://twitter.com/kimtvak)
-
-## 🛠️ Tech Stack & Tools:
-<p align="middle">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
-<!--   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>  -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a> 
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a> 
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<!--   <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a> 
-  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a> -->
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-<p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimtvak8143&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kimtvak8143" />
-</p>
+## 👨‍💻 About Me
 
-<p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimtvak8143&show_icons=true&theme=cobalt&bg_color=000700&locale=en" alt="kimtvak8143" />
-</p>
+- 🛠️ **2+ years** building and scaling cloud infrastructure at **Bajaj Finserv**
+- ☁️ Hands-on across **AWS · Azure · GCP** — from provisioning to production
+- 🔄 Passionate about CI/CD, IaC, and making on-call shifts boring (the good kind)
+- 🔍 Currently deepening: **Advanced Cloud Networking · Observability · AI on Cloud**
+- 🎖️ GitHub GH-200 · Azure AZ-400 · AZ-305 · AZ-204 · AZ-104 · AI-102 certified
 
-<p align="middle">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimtvak8143&theme=cobalt" alt="kimtvak8143" />
-</p>
+---
+
+## 🏗️ What I've Built
+
+| Project | Impact |
+|---|---|
+| ⚡ **CI/CD Pipeline Optimization** | Reduced build time by **40%** across Jenkins & GitHub Actions |
+| 📊 **Synthetic Monitoring (New Relic)** | Coverage for **50+ URLs** with alerting and SLA tracking |
+| 🌍 **Bulk URL Purge & Warm-up** | Dispatcher & Akamai CDN automation at scale |
+| 🚀 **Multi-Cloud Deployment Automation** | Terraform + Ansible for repeatable, drift-free infra |
+| 📜 **AWS DocumentDB Profiling** | Query performance tuning and index optimization |
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**IaC & Config Management**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+**Monitoring & Observability**
+
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=new-relic&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
+
+**Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kimtvak8143&show_icons=true&theme=cobalt&bg_color=000700&locale=en&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimtvak8143&show_icons=true&theme=cobalt&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kimtvak8143&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+- 📧 [kimtaws46@gmail.com](mailto:kimtaws46@gmail.com)
+- 💼 [linkedin.com/in/mohitkkushwaha](https://www.linkedin.com/in/mohitkkushwaha/)
+- 🐦 [@kimtvak](https://twitter.com/kimtvak)
+- 🌐 [linktr.ee/mohit_kushwaha](https://linktr.ee/mohit_kushwaha)
+
+---
+
+<div align="center">
+  <sub>Built with ☕ and too many terminal tabs open</sub>
+</div>
