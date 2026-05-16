@@ -19,8 +19,8 @@
 - ☁️ Hands-on across **AWS · Azure · GCP** — from provisioning to production
 - 🔄 Passionate about CI/CD, IaC, and making on-call shifts boring (the good kind)
 - 🔍 Currently deepening: **Advanced Cloud Networking · Observability · AI on Cloud**
-- 🎖️ GitHub GH-200 ·
-- 🎖️ Azure AZ-400 · AZ-305 · AZ-204 · AZ-104 · AI-102 certified
+- 🎖️ **11 certifications** across GitHub, Microsoft Azure, and AI — see below
+- 📄 **IEEE published researcher** — DevSecOps & secure automation in financial systems
 
 ---
 
@@ -71,6 +71,43 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+---
+
+## 🎖️ Certifications
+
+**GitHub**
+
+![GH-200](https://img.shields.io/badge/GH--200-GitHub_Foundations-181717?style=flat&logo=github&logoColor=white)
+
+**Microsoft Azure**
+
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator_Associate-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-204](https://img.shields.io/badge/AZ--204-Azure_Developer_Associate-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-400](https://img.shields.io/badge/AZ--400-Azure_DevOps_Engineer_Expert-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Microsoft Data & AI**
+
+![DP-600](https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer_Associate-0078D4?style=flat&logo=microsoft&logoColor=white)
+![DP-900](https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AI-102](https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+---
+
+## 📄 Research Publications
+
+> IEEE-published research on DevSecOps, secure automation, and financial system security.
+
+**[DevSecOps in Finance: Strengthening the Security Model of Applications](https://ieeexplore.ieee.org/document/10502917/)**
+*IEEE Xplore · 2024*
+Explores integrating security practices into DevOps pipelines within regulated financial environments, addressing threat modelling, compliance automation, and shift-left security strategies.
+
+**[Automation and DevSecOps: Streamlining Security Measures in Financial System](https://ieeexplore.ieee.org/document/10677271)**
+*IEEE Xplore · 2024*
+Investigates automated security controls and DevSecOps frameworks tailored for financial systems, focusing on pipeline hardening, audit trails, and continuous compliance.
 
 ---
 
