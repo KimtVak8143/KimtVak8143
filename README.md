@@ -19,7 +19,8 @@
 - ☁️ Hands-on across **AWS · Azure · GCP** — from provisioning to production
 - 🔄 Passionate about CI/CD, IaC, and making on-call shifts boring (the good kind)
 - 🔍 Currently deepening: **Advanced Cloud Networking · Observability · AI on Cloud**
-- 🎖️ GitHub GH-200 · Azure AZ-400 · AZ-305 · AZ-204 · AZ-104 · AI-102 certified
+- 🎖️ GitHub GH-200 ·
+- 🎖️ Azure AZ-400 · AZ-305 · AZ-204 · AZ-104 · AI-102 certified
 
 ---
 
