@@ -127,7 +127,7 @@ Investigates automated security controls and DevSecOps frameworks tailored for f
 
 ## 🔗 Let's Connect
 
-- 📧 [kimtaws46@gmail.com](mailto:kimtaws46@gmail.com)
+- 📧 [cloudsuffers@gmail.com](mailto:cloudsuffers@gmail.com)
 - 💼 [linkedin.com/in/mohitkkushwaha](https://www.linkedin.com/in/mohitkkushwaha/)
 - 🐦 [@kimtvak](https://twitter.com/kimtvak)
 - 🌐 [linktr.ee/mohit_kushwaha](https://linktr.ee/mohit_kushwaha)
